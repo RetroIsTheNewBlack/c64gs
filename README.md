@@ -1,7 +1,10 @@
 # c64gs
 Stuff to recreate a C64 Games Systems (GS)
 
-The videos can be found here: xxx
+The videos can be found here: 
+
+- Part 1: https://youtu.be/toL_svQK7tE
+- Part 2: https://youtu.be/dRVexQr95dg
 
 C64GS Kernel: https://www.commodore.ca/manuals/funet/cbm/firmware/computers/c64/index-t.html
 
